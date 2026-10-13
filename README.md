@@ -1,6 +1,7 @@
 Windows RAM Memory Forensics & Investigation Using Volatility 3
 
  Project Overview
+ 
 This project demonstrates Windows memory forensics using Volatility 3 to investigate running processes, network connections, and suspicious executable memory regions.
 
 Objectives
@@ -23,6 +24,7 @@ Investigation Highlights
 - Recorded SHA-256 hashes of both memory dumps.
 
 Key Finding
+
 The combined findings are suspicious and warrant further investigation. They do not conclusively prove a successful compromise.
 
 Investigation Report
